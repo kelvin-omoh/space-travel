@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/space-travel/static/css/main.e1fa509c.css",
+    "main.js": "/space-travel/static/js/main.c8807806.js",
+    "static/media/space.mp4": "/space-travel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/space-travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/space-travel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/space-travel/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/space-travel/index.html",
+    "main.e1fa509c.css.map": "/space-travel/static/css/main.e1fa509c.css.map",
+    "main.c8807806.js.map": "/space-travel/static/js/main.c8807806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1fa509c.css",
+    "static/js/main.c8807806.js"
+  ]
+}
